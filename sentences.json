@@ -1,0 +1,56 @@
+[
+    {
+        "chinese": "他的健康受到壓力的影響。",
+        "pinyin": "Tā de jiànkāng shòudào yālì de yǐngxiǎng.",
+        "spanish": "Su salud se vio afectada por el estrés.",
+        "english": "His health was affected by stress."
+    },
+    {
+        "chinese": "經濟衰退受到全球事件的影響。",
+        "pinyin": "Jīngjì shuāituì shòudào quánqiú shìjiàn de yǐngxiǎng.",
+        "spanish": "La recesión económica se vio afectada por los eventos globales.",
+        "english": "The economic recession was affected by global events."
+    },
+    {
+        "chinese": "孩子的成長受到家庭環境的影響。",
+        "pinyin": "Háizi de chéngzhǎng shòudào jiātíng huánjìng de yǐngxiǎng.",
+        "spanish": "El crecimiento del niño se vio afectado por el entorno familiar.",
+        "english": "The child's growth was affected by the family environment."
+    },
+    {
+        "chinese": "公司的股價受到市場情緒的影響。",
+        "pinyin": "Gōngsī de gǔjià shòudào shìchǎng qíngxù de yǐngxiǎng.",
+        "spanish": "El precio de las acciones de la compañía se vio afectado por el sentimiento del mercado.",
+        "english": "The company's stock price was affected by market sentiment."
+    },
+    {
+        "chinese": "他的決定受到朋友的影響。",
+        "pinyin": "Tā de juédìng shòudào péngyǒu de yǐngxiǎng.",
+        "spanish": "Su decisión se vio afectada por sus amigos.",
+        "english": "His decision was influenced by his friends."
+    },
+    {
+        "chinese": "農作物的收成受到天氣的影響。",
+        "pinyin": "Nóngzuòwù de shōucheng shòudào tiānqì de yǐngxiǎng.",
+        "spanish": "La cosecha de los cultivos se vio afectada por el clima.",
+        "english": "The crop yield was affected by the weather."
+    },
+    {
+        "chinese": "城市的交通受到施工的影響。",
+        "pinyin": "Chéngshì de jiāotōng shòudào shīgōng de yǐngxiǎng.",
+        "spanish": "El tráfico de la ciudad se vio afectado por la construcción.",
+        "english": "The city's traffic was affected by construction."
+    },
+    {
+        "chinese": "他的心情受到壞消息的影響。",
+        "pinyin": "Tā de xīnqíng shòudào huài xiāoxī de yǐngxiǎng.",
+        "spanish": "Su estado de ánimo se vio afectado por las malas noticias.",
+        "english": "His mood was affected by the bad news."
+    },
+    {
+        "chinese": "傳統文化受到西方文化的影響。",
+        "pinyin": "Chuántǒng wénhuà shòudào xīfāng wénhuà de yǐngxiǎng.",
+        "spanish": "La cultura tradicional se vio afectada por la cultura occidental.",
+        "english": "Traditional culture was influenced by Western culture."
+    }
+]

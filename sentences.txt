@@ -62,3 +62,18 @@
 她再忙也會陪孩子玩 | Tā zài máng yě huì péi háizi wán | Aunque esté muy ocupada, jugará con los niños | No matter how busy she is, she’ll play with the kids  
 他再強也打不過那個對手 | Tā zài qiáng yě dǎ bù guò nàge duìshǒu | Por muy fuerte que sea, no puede vencer a ese oponente | No matter how strong he is, he can’t beat that opponent  
 你再等也沒有人會來 | Nǐ zài děng yě méiyǒu rén huì lái | Por mucho que esperes, nadie vendrá | No matter how long you wait, no one will come
+幸虧你幫忙，我才完成這項工作 | Xìngkuī nǐ bāngmáng, wǒ cái wánchéng zhè xiàng gōngzuò | Afortunadamente, con tu ayuda, pude completar este trabajo | Fortunately, with your help, I was able to complete this work
+幸虧我們帶了雨傘，否則就會被雨淋濕 | Xìngkuī wǒmen dài le yǔsǎn, fǒuzé jiù huì bèi yǔ lín shī | Afortunadamente, trajimos un paraguas, de lo contrario nos habríamos mojado | Fortunately, we brought an umbrella, otherwise we would have gotten wet
+幸虧醫生及時到達，他才得救 | Xìngkuī yīshēng jíshí dàodá, tā cái dé jiù | Afortunadamente, el médico llegó a tiempo y él fue salvado | Fortunately, the doctor arrived on time, and he was saved
+幸虧有你，我才沒有放棄 | Xìngkuī yǒu nǐ, wǒ cái méiyǒu fàngqì | Afortunadamente, contigo, no abandoné | Fortunately, with you, I didn’t give up
+幸虧我們提早出發，否則就會遲到 | Xìngkuī wǒmen tí zǎo chūfā, fǒuzé jiù huì chídào | Afortunadamente, salimos temprano, de lo contrario habríamos llegado tarde | Fortunately, we left early, otherwise we would have been late
+幸虧電腦自動保存了文件，否則我就失去了一切 | Xìngkuī diànnǎo zìdòng bǎocún le wénjiàn, fǒuzé wǒ jiù shīqù le yīqiè | Afortunadamente, la computadora guardó automáticamente el archivo, de lo contrario lo habría perdido todo | Fortunately, the computer auto-saved the file, otherwise I would have lost everything
+幸虧你提醒了我，我才想起了這件事 | Xìngkuī nǐ tìxǐng le wǒ, wǒ cái xiǎngqǐ le zhè jiàn shì | Afortunadamente, me recordaste y recordé este asunto | Fortunately, you reminded me, and I remembered this thing
+幸虧我們有保險，否則這次事故將會使我們破產 | Xìngkuī wǒmen yǒu bǎoxiǎn, fǒuzé zhè cì shìgù jiāng huì shǐ wǒmen pòchǎn | Afortunadamente, tenemos seguro, de lo contrario este accidente nos habría arruinado | Fortunately, we have insurance, otherwise this accident would have bankrupted us
+幸虧老師及時發現了錯誤，否則我就會得零分 | Xìngkuī lǎoshī jíshí fāxiàn le cuòwù, fǒuzé wǒ jiù huì dé língfēn | Afortunadamente, el maestro encontró el error a tiempo, de lo contrario habría sacado cero | Fortunately, the teacher found the mistake in time, otherwise I would have gotten zero
+幸虧我們有地圖，否則我們就會迷路 | Xìngkuī wǒmen yǒu dìtú, fǒuzé wǒmen jiù huì mílù | Afortunadamente, tenemos un mapa, de lo contrario nos habríamos perdido | Fortunately, we have a map, otherwise we would have gotten lost
+幸虧你幫助了我，我才通過了考試 | Xìngkuī nǐ bāngzhù le wǒ, wǒ cái tōngguò le kǎoshì | Afortunadamente, me ayudaste y aprobé el examen | Fortunately, you helped me, and I passed the exam
+幸虧我們有足夠的食物，否則我們就會餓肚子 | Xìngkuī wǒmen yǒu zúgòu de shíwù, fǒuzé wǒmen jiù huì è dùzi | Afortunadamente, tenemos suficiente comida, de lo contrario habríamos tenido hambre | Fortunately, we have enough food, otherwise we would have been hungry
+幸虧你教了我怎麼做，我才學會了 | Xìngkuī nǐ jiāo le wǒ zěnme zuò, wǒ cái xuéhuì le | Afortunadamente, me enseñaste cómo hacerlo y lo aprendí | Fortunately, you taught me how to do it, and I learned it
+幸虧我們有雨衣，否則我們就會被雨淋濕 | Xìngkuī wǒmen yǒu yǔyī, fǒuzé wǒmen jiù huì bèi yǔ lín shī | Afortunadamente, tenemos chaquetas de lluvia, de lo contrario nos habríamos mojado | Fortunately, we have raincoats, otherwise we would have gotten wet
+幸虧你及時到達，否則我就會錯過飛機 | Xìngkuī nǐ jíshí dàodá, fǒuzé wǒ jiù huì cuòguò fēijī | Afortunadamente, llegaste a tiempo, de lo contrario habría perdido el avión | Fortunately, you arrived on time, otherwise I would have missed the plane  
